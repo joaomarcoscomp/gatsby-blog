@@ -8,6 +8,10 @@ module.exports = {
       resolve: `gatsby-theme-blog-darkmode`,
       options: {},
     },
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {},
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
